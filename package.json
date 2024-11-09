@@ -1,0 +1,19 @@
+{
+    "name": "pingpongchat",
+    "version": "1.0.0",
+    "description": "Projet fil rouge pour le cours sur l'architecture et les bonnes pratiques de développement.",
+    "type": "module",
+    "dependencies": {
+        "body-parser": "^1.20.3",
+        "express": "^4.21.1",
+        "jest": "^29.7.0",
+        "sequelize": "^6.37.5",
+        "sqlite3": "^5.1.7",
+        "supertest": "^7.0.0",
+        "vitest": "^2.1.4"
+    },
+    "scripts": {
+        "test": "vitest"
+    },
+    "packageManager": "pnpm@8.15.6+sha512.77b89e9be77a2b06ad8f403a19cae5e22976f61023f98ad323d5c30194958ebc02ee0a6ae5d13ee454f6134e4e8caf29a05f0b1a0e1d2b17bca6b6a1f1159f86"
+}
